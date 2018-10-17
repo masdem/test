@@ -30,3 +30,8 @@ class Person
     puts moi.getPrenom
     puts moi.getNom
     Person.teint()
+
+    def test
+        puts 'mytest'
+    end
+    
