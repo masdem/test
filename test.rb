@@ -35,3 +35,7 @@ class Person
         puts 'mytest'
     end
     
+    def test2
+        puts 'Test de kadidiatou'
+    end
+    
